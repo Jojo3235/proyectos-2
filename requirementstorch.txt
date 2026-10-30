@@ -66,10 +66,10 @@ stack-data==0.6.3
 statsmodels @ file:///D:/bld/bld/rattler-build_statsmodels_1788196466/work
 sympy @ file:///C:/miniconda3/conda-bld/sympy_1764762978780/work
 threadpoolctl==3.7.0
-torch==2.5.1
-torchaudio==2.5.1
+torch==2.7.1+cu118
+torchaudio==2.7.1+cu118
 torchsde==0.2.6
-torchvision==0.20.1
+torchvision==0.22.1+cu118
 tornado==6.5.7
 traitlets==5.15.1
 trampoline==0.1.2
